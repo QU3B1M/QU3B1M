@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! I'm Kevin Ledesma</h1>
-  <p>I'm a self-taught Software Developer & QA Automation, tech lover who enjoys wasting my time playing video games and coding.</p>
+  <p>I'm a Software Engineer, tech lover who enjoys wasting my time playing video games, coding and starting projects I may never finish.</p>
   <div>
     <a href="https://github.com/QU3B1M">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QU3B1M&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
